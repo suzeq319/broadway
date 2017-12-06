@@ -33,3 +33,9 @@ h3 {
 p {
   font-size: 14px;
 }
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgrey;
+  text-align: left;
+}
